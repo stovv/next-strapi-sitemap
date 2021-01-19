@@ -4,11 +4,11 @@
 1. Clone into `scripts` folder into nextjs project 
     ```bash
     cd <your project on nextjs>
-    git clone https://github.com/stovv/next-strapi-sitemap.git scrips
+    git clone https://github.com/stovv/next-strapi-sitemap.git scripts
     ```
 2. Install dependencies
     ```bash
-    cd  <your project on nextjs>/scrips
+    cd  <your project on nextjs>/scripts
     
     # if you use yarn
     yarn install
